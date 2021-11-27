@@ -1,0 +1,74 @@
+.Main {
+  position: absolute;
+  height: 100% !important;
+  width: 100% !important;
+  top: 0 !important;
+  left: 0 !important;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+#circleOne {
+  width: 150px;
+  height: 150px;
+  background-color: #ff705a;
+  border-radius: 50%;
+  position: absolute;
+  cursor: pointer;
+}
+
+#circleTwo {
+  width: 150px;
+  height: 150px;
+  background-color: #ff705a;
+  border-radius: 50%;
+  position: absolute;
+  cursor: pointer;
+}
+
+.column.h-center {
+  align-items: center;
+}
+
+.column.v-center {
+  justify-content: center;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.column,
+.row {
+  display: flex;
+}
+
+input {
+  outline: none;
+  background: 0 0;
+  width: 60px;
+  margin: 8px;
+  text-align: center;
+  border: none;
+  border-bottom: 1px solid #071a39;
+}
+
+.line {
+  background: #071a39;
+  height: 2px;
+  transform-origin: 0 0;
+  position: absolute;
+}
+
+.lineInput {
+  position: absolute;
+  z-index: 100;
+  left: 50%;
+  background: #071a39;
+  /* margin-top: -15px; */
+  margin-left: -30px;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+}
