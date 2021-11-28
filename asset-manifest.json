@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/funnycircles/static/css/main.4bfaac8c.chunk.css",
+    "main.js": "/funnycircles/static/js/main.9c74ed64.chunk.js",
+    "main.js.map": "/funnycircles/static/js/main.9c74ed64.chunk.js.map",
+    "runtime-main.js": "/funnycircles/static/js/runtime-main.3c300cf1.js",
+    "runtime-main.js.map": "/funnycircles/static/js/runtime-main.3c300cf1.js.map",
+    "static/js/2.d2902c8e.chunk.js": "/funnycircles/static/js/2.d2902c8e.chunk.js",
+    "static/js/2.d2902c8e.chunk.js.map": "/funnycircles/static/js/2.d2902c8e.chunk.js.map",
+    "index.html": "/funnycircles/index.html",
+    "static/css/main.4bfaac8c.chunk.css.map": "/funnycircles/static/css/main.4bfaac8c.chunk.css.map",
+    "static/js/2.d2902c8e.chunk.js.LICENSE.txt": "/funnycircles/static/js/2.d2902c8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c300cf1.js",
+    "static/js/2.d2902c8e.chunk.js",
+    "static/css/main.4bfaac8c.chunk.css",
+    "static/js/main.9c74ed64.chunk.js"
+  ]
+}
