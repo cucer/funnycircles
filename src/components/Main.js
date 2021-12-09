@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import ReactGa from 'react-ga'
 import '../css/main.css'
 
 function Main() {
