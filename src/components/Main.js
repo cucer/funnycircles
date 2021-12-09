@@ -24,6 +24,11 @@ function Main() {
   const [topDiff, setTopDiff] = useState(0)
 
   useEffect(() => {
+    ReactGa.initialize('UA-62711254-5')
+    ReactGa.pageview('/circles')
+  }, [])
+
+  useEffect(() => {
     // calculate: width and transform
     let ldiff = leftTwo - leftOne
     let tdiff = topTwo - topOne
